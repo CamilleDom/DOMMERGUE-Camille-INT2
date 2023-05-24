@@ -5,7 +5,8 @@ A python program that generates programming quotes and jokes.
 ## Contributors
 - `initiator`: DOMMERGUE Camille INT2
 - `contributor-1`: STERIAN Razvan INT2
-- `contributor-2`: MARQUIS ulysse B 
+- `contributor-2`: MARQUIS ulysse INT2
+- `contributor-3`: MARQUIS ulysse INT2
 
 
 ## Fork urls
