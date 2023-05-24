@@ -21,7 +21,8 @@ def main():
             view_quotes(quotes)
         elif choice == "3":
             add_quote(quotes, filename)
-        elif choice =="4":
+        elif choice == "4":
+            count = int(input("Enter the number of quotes to display: "))
             display_quotes(quotes, count)
         elif choice == "5":
             print("Good bye...")
